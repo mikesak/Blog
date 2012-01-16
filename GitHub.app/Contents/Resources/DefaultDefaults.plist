@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>GitHubAppDelegateRefreshIntervalKey</key>
+	<integer>600</integer>
+	<key>GitHubAppDelegateDefaultRemotePathKey</key>
+	<string>~/github</string>
+	<key>GitHubAppDelegateDefaultLocalPathKey</key>
+	<string>~/github/local</string>
+	<key>GitHubAppDelegateDefaultRefreshOnWillBecomeActiveKey</key>
+	<true/>
+	<key>GitHubAppDelegateSendCrashReportsKey</key>
+	<true/>
+	<key>GitHubAppDelegateSendUsageStatsKey</key>
+	<true/>
+	<key>GitHubAppDelegateHasLaunchedBeforeKey</key>
+	<false/>
+	<key>GitHubAppDelegateUseMagicStashingKey</key>
+	<true/>
+	<key>GitHubAppDelegateGetBetaUpdatesKey</key>
+	<false/>
+	<key>GitHubAppDelegateAdditionalPathsKey</key>
+	<string></string>
+	<key>GitHubAppDelegateEnableCoreDumpsKey</key>
+	<false/>
+	<key>commitAndSyncEnabled</key>
+	<false/>
+	<key>hasClosedLineCommittingTipView</key>
+	<false/>
+</dict>
+</plist>
